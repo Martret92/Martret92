@@ -27,7 +27,7 @@ Git · GitHub · Docker · Linux · Postman · Vite
 
 ## Selected projects
 
-### DevData Generator
+### [DevData Generator](https://github.com/Martret92/devdata-generator)
 
 React application for generating configurable test data and exporting it as JSON, CSV and SQL.
 
@@ -41,7 +41,7 @@ The backend includes CRUD operations, rankings, player statistics, inventories, 
 
 `Node.js · Express · PostgreSQL · Docker · React`
 
-### Interactive Zelda-inspired CV
+### [Interactive Zelda-inspired CV](https://github.com/Martret92/11201_PR_01_01_Martret_Jaime)
 
 Interactive web experience designed as a creative alternative to a traditional CV.
 
