@@ -41,12 +41,6 @@ The backend includes CRUD operations, rankings, player statistics, inventories, 
 
 `Node.js · Express · PostgreSQL · Docker · React`
 
-### [Interactive Zelda-inspired CV](https://github.com/Martret92/11201_PR_01_01_Martret_Jaime)
-
-Interactive web experience designed as a creative alternative to a traditional CV.
-
-`HTML5 · CSS3 · JavaScript`
-
 ## Currently working on
 
 - Preparing my main projects for public release.
